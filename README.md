@@ -6,5 +6,4 @@ Tienda web de juegos clásicos hecha con HTML, CSS y Bootstrap 5 (por CDN) con t
 
 **Archivos:** `index.html` y `style.css`.
 
-**Ver la tienda:**
-**Mi juego:** 
+
