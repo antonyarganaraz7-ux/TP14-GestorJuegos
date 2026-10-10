@@ -1,0 +1,22 @@
+/* estilos de la tienda */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.header-principal {
+  background-color: #1a1a2e;
+  border-bottom: 3px solid gold;
+}
+
+.card {
+  border: 2px solid #444;
+}
+
+.card:hover {
+  border-color: gold;
+}
+
+footer {
+  border-top: 1px solid #444;
+}
